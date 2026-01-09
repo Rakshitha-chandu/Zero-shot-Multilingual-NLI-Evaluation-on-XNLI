@@ -97,10 +97,12 @@ This study emphasizes the importance of transparent benchmarking and language-aw
 ---
 
 ## Repository Structure
-├── xnli_multilingual_evaluation.ipynb # Main experiment notebook
+'''
+├── xnli_multilingual_evaluation.ipynb # Main experiment notebook //
 ├── results/ # Tables and plots
 ├── report/ # Short research-style PDF summary
 ├── README.md
+'''
 
 
 ---
