@@ -104,6 +104,11 @@ This study emphasizes the importance of transparent benchmarking and language-aw
 ├── README.md
 ```
 
+### Detailed Reports
+
+- **Short Research Summary:** [report.pdf](./report.pdf)  
+- **Results Summary:** [result.pdf](./result.pdf)
+
 
 ---
 
