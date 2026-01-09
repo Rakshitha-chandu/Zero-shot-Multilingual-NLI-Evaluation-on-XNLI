@@ -97,4 +97,16 @@ This study emphasizes the importance of transparent benchmarking and language-aw
 ---
 
 ## Repository Structure
+├── xnli_multilingual_evaluation.ipynb # Main experiment notebook
+├── results/ # Tables and plots
+├── report/ # Short research-style PDF summary
+├── README.md
+
+
+---
+
+## Notes
+This project is intended as a research-oriented exploration of multilingual evaluation rather than a production-ready system. All results are reported honestly and without performance tuning.
+
+
 
